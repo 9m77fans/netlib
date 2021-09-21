@@ -2,6 +2,7 @@
 #include <iostream>
 #include <string>
 #include "TcpServer.h"
+#include "test.h"
 
 using namespace std;
 using namespace solarflare;
